@@ -10,4 +10,3 @@ function happyHolidayTo(holiday, name) {
     holiday = Independence Day
   }
 }
-
